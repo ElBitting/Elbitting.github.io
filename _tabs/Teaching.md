@@ -1,4 +1,4 @@
 ---
-icon: fas fa-graduation-cap
+icon: fas fa-university
 order: 2
 ---
