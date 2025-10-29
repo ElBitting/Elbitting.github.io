@@ -16,10 +16,10 @@ timezone:
 
 title: Eliot Bitting # the main title
 
-tagline: Ph.D. Candidate at the University of Missouri # it will display as the subtitle
+tagline: Ph.D. Student at the University of Missouri # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Ph.D. Candidate doing research in Commutative Algebra
+  Ph.D. Student doing research in Commutative Algebra
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
