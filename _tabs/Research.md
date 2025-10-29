@@ -10,3 +10,6 @@ Master's Thesis: A Study in Flatness PDF:
 
 ### Talks Given
 
+### Confrences Attended
+
+
