@@ -6,7 +6,7 @@ order: 1
 > My research interests lie in the intersections of Commutative Algebra, Homological Algebra, and Algebraic Geometry
 
 ### Papers/Notes
-Master's Thesis: A Study in Flatness -  PDF 
+Master's Thesis: A Study in Flatness -  [PDF](./Masters_Thesis__A_Study_of_Flatness.pdf) 
 
 ### Talks Given
 1. Graduate Algebra Seminar, An invitation to Valuation Rings - September 2025
