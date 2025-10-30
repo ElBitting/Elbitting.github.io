@@ -5,12 +5,9 @@ order: 3
 
 > Service in the Mathematical Community is listed here
 
-### Organization
-test
-
-
 ### Mentoring
-test
+- Fall 2023: DRP Advisor
 
 ### Tutoring
-test
+- Fall 2024: MathUp! Tutor, GradeAPlus
+- Fall 2023: MathUp! Tutor, GradeAPlus
