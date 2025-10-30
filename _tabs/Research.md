@@ -3,7 +3,7 @@ icon: fas fa-book
 order: 1
 ---
 
-> My research interests lie in the intersections of Commutative Algebra, Homological Algebra, and Algebraic Geometry
+> My research interests lie in the intersections of Commutative Algebra, Homological Algebra, and Algebraic Geometry. More specifically, I am interested in properties of descent over common ring maps, such as integral extensions of noetherian rings, pure maps, and faithfully flat maps. 
 
 ### Papers/Notes
 Master's Thesis: A Study in Flatness -  [PDF](/Masters_Thesis__A_Study_of_Flatness.pdf) 
