@@ -1,6 +1,6 @@
 ---
 title: Research
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+date: 
 categories: [Research]
 tags: [work]     # TAG names should always be lowercase
 ---
