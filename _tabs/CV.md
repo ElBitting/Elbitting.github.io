@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-volume-up
+icon: fas fa-bars
 order: 4
 ---
 
