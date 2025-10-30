@@ -5,7 +5,7 @@ order: 4
 ---
 
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+> Find below my CV and Resume. References are available Upon Request
 
-![[\CV_Bitting.pdf]]
+
+- [CV](/CV_Bitting.pdf)
