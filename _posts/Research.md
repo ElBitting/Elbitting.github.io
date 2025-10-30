@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Research
 date: 
 categories: [Research]
