@@ -1,6 +1,6 @@
 ---
 icon: fas fa-list
-order: 4
+order: 3
 ---
 
 > Service in the Mathematical Community is listed here
