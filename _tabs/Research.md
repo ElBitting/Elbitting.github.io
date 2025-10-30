@@ -17,9 +17,9 @@ Master's Thesis: A Study in Flatness -  [PDF](/Masters_Thesis__A_Study_of_Flatne
 6. Graduate Seminar, Faithfully Flat Descent - November 2023
 
 ### Confrences Attended
-1. KUMUNU 2023, Columbia MO
-2. KUMUNU 2024, Columbia MO
-3. AMS Regional Section Fall 2025, Saint Louis MO
-4. KUMUNU 2025, Columbia MO
+1. KUMUNU 2025, Columbia MO
+2. AMS Regional Section Fall 2025, Saint Louis MO
+3. KUMUNU 2024, Columbia MO
+4. KUMUNU 2023, Columbia MO
 
 
