@@ -3,7 +3,6 @@ layout: page
 # Index page
 ---
 
-> Testing Comment
 
 ### About Me
 
