@@ -5,7 +5,7 @@ order: 4
 ---
 
 
-> Find below my CV and Resume. References are available Upon Request
+> Find below my CV. References are available Upon Request
 
 
 - [CV](/CV_Bitting.pdf)
